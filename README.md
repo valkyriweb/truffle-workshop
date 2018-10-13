@@ -193,4 +193,4 @@ The easiest way to interact with our dapp in a browser is through [MetaMask](htt
 
 **Useful Links
 
-Airline blockchain challenge - https://www.f6s.com/theaviationblockchainchallenge
+[Airline blockchain challenge](https://www.f6s.com/theaviationblockchainchallenge)
