@@ -190,3 +190,7 @@ The easiest way to interact with our dapp in a browser is through [MetaMask](htt
    ![MetaMask account configured](/img/metamask-account1.png "MetaMask account configured")
 
    Configuration is now complete.
+
+**Useful Links
+
+Airline blockchain challenge - https://www.f6s.com/theaviationblockchainchallenge
